@@ -1,4 +1,4 @@
-![Source Code](https://i.imgur.com/L1ygpem.png)
+![Source Code](https://i.imgur.com/q3HlogR.jpg)
 
 ### Welcome to the Project 𝓔𝓵𝓲𝔁𝓲𝓻 /////////////// [![Download Project Elixir](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download)
 
