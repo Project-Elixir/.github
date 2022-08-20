@@ -32,7 +32,7 @@ Have you done it already? Okay, good. Now if you need to contact us, well, you m
 ### Do consider donating or buying me a coffee on Paypal if you want to appreciate our work or join us on Patreon for sustainable support and early build access.
 
 ```bash
-Patreon : https://www.patreon.com/join/uglykid24
+Patreon: https://www.patreon.com/join/uglykid24
 GPAY UPI ID: dwarmachine24@oksbi
 PAYPAL: https://www.paypal.me/uglykid24
 ```
