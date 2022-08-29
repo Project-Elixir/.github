@@ -1,4 +1,4 @@
-![Source Code](https://i.imgur.com/IZLIg1y.png)
+![Source Code](https://i.imgur.com/C0Wcdr5.png) 
 
 ### Welcome to the Project 𝓔𝓵𝓲𝔁𝓲𝓻 /////////////// [![Download Project Elixir](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download)
 
@@ -33,7 +33,11 @@ Have you done it already? Okay, good. Now if you need to contact us, well, you m
 
 ```bash
 Patreon : https://www.patreon.com/join/uglykid24
+```
+```bash
 GPAY UPI ID: dwarmachine24@oksbi
+```
+```bash
 PAYPAL: https://www.paypal.me/uglykid24
 ```
 
