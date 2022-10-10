@@ -18,7 +18,7 @@ Now that we mentioned the important repositories for building and reference, if 
 
 * [**Maintainers requirements**](https://projectelixiros.com/documentation)
 * [**Device requirements**](https://projectelixiros.com/documentation)
-* [**XDA Template**](https://projectelixiros.com/documentation)
+* [**XDA Template**](https://github.com/Project-Elixir/docs/blob/Tiramisu/xda_template.txt)
 
 Have you done it already? Okay, good. Now if you need to contact us, well, you may ask in our [Telegram](https://t.me/Elixir_Discussion) Support Group, ~~we may or may not answer.~~
 
