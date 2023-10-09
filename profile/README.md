@@ -23,7 +23,7 @@ You can build and enjoy Project Elixir on your respective devices by your own or
 * [**Maintainers Requirements**](https://projectelixiros.com/documentation)
 * [**Device Requirements**](https://projectelixiros.com/documentation)
 * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
-* [**XDA Template**](https://github.com/Project-Elixir/docs/blob/Tiramisu/xda_template.txt)
+* [**XDA Template**](https://github.com/Project-Elixir/docs/blob/UNO/xda_template.txt)
 
 <br>
 
