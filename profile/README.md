@@ -33,7 +33,7 @@ You can build and enjoy Project Elixir on your respective devices by your own or
  
 
 <p align="center">
-  <img src="https://i.imgur.com/zBcFuH7.png" />
+  <img src="https://i.imgur.com/Qhxd9nL.png" />
 </p>
 
 ### Official Support Group & Channel
@@ -60,7 +60,7 @@ For urgent need feel free to contact us on provided links. And for personal buil
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/EzKGk3Y.png" />
+  <img src="https://i.imgur.com/NN934sQ.png" />
 </p>
 
 ```
@@ -73,7 +73,7 @@ UPI: dwarmachine24@oksbi
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/9wgrVmV.png" />
+  <img src="https://i.imgur.com/uJQqd7q.png" />
 </p>
 
 
