@@ -59,7 +59,7 @@ UPI: dwarmachine24@oksbi
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/uJQqd7q.png" />
+  <img src="https://i.imgur.com/zY1Znpm.png" />
 </p>
 
 
