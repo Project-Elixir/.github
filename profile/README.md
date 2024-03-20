@@ -8,7 +8,9 @@
 
 ### ⊀ Unleash Innovation ⊁
 
-Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience.
+Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience. 
+
+A screenshot is worth thousand of words so don't forget to checkout our [**gallery 1**](https://www.buymeacoffee.com/uglykid/gallery) and [**gallery 2**](https://projectelixiros.com/gallery)
 
 [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
