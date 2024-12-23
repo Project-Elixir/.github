@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://i.imgur.com/gcOvt3T.png" />
+  <img src="https://i.imgur.com/irnHU8d.png" />
 </p>
 
-### Introducing Project Elixir now based on Android 14 シ
+### Introducing Project Elixir now based on Android 15 シ
 
-<p>"Redefining your android experience with our new update which offers minimal UI enhancement and close to Stock android experience with customization."</p>
+<p>"Redefine Simplicity with your android experience on our minimalistic custom rom — where sleek design meets robust security, performance, and stability."</p>
 
 ### ⊀ Unleash Innovation ⊁
 
-Your experience while using our ROM will be buttery smooth without compromising the quality of the Android experience. 
+Elevate your user interface with minimalist design and with the striking of perfect balanced customization options, customize with ease.
 
-A screenshot is worth thousand of words so don't forget to checkout our [**gallery 1**](https://www.buymeacoffee.com/uglykid/gallery) and [**gallery 2**](https://projectelixiros.com/gallery)
+A screenshot is worth thousand of words so don't forget to checkout our [**gallery 1**](https://projectelixiros.com/gallery) and [**gallery 2**](https://www.buymeacoffee.com/uglykid/gallery)
 
-[![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
+<img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />
 
 Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
 ### So now you know about us, Lets begin the madness !
 You can build and enjoy Project Elixir on your respective devices by your own or you can visit our website for OFFICIAL builds by porper maintainer. Now basics pre requisite that you need to build by yourself
 
-### Official Git Organization / Repos 
+### Official Git Organization / Repos
 * [**Elixir Manifest**](https://github.com/Project-Elixir/manifest)
 * [**Elixir Vendor**](https://github.com/Project-Elixir/vendor_aosp)
 * [**Elixir-Devices**](https://github.com/ProjectElixir-Devices)
@@ -29,7 +29,6 @@ You can build and enjoy Project Elixir on your respective devices by your own or
 * [**Maintainers Requirements**](https://projectelixiros.com/documentation)
 * [**Device Requirements**](https://projectelixiros.com/documentation)
 * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
-* [**XDA Template**](https://github.com/Project-Elixir/docs/blob/UNO/xda_template.txt)
 
 ### Official Support Group & Channel
  * [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
@@ -61,7 +60,7 @@ UPI: dwarmachine24@oksbi
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/zY1Znpm.png" />
+  <img src="https://i.imgur.com/bETSPlo.png" />
 </p>
 
 
