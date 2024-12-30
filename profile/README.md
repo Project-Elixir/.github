@@ -14,10 +14,10 @@ A screenshot is worth thousand of words so don't forget to checkout our [**galle
 
 [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
-Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
+> Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
 ### So now you know about us, Lets begin the madness !
-You can build and enjoy Project Elixir on your respective devices by your own or you can visit our website for OFFICIAL builds by porper maintainer. Now basics pre requisite that you need to build by yourself
+> You can build and enjoy Project Elixir on your respective devices by your own or you can visit our website for OFFICIAL builds by porper maintainer. Now basics pre requisite that you need to build by yourself
 
 ### Official Git Organization / Repos
 * [**Elixir Manifest**](https://github.com/Project-Elixir/manifest) [WIP for Public Use" Dont Sync]
@@ -25,21 +25,16 @@ You can build and enjoy Project Elixir on your respective devices by your own or
 * [**Elixir-Devices**](https://github.com/ProjectElixir-Devices)
 * You may use this [**guide**](https://github.com/Project-Elixir/docs/blob/vany/maintainers_guide.md) as a reference.
 
-### Some important links below
-* [**Maintainers Requirements**](https://projectelixiros.com/documentation)
-* [**Device Requirements**](https://projectelixiros.com/documentation)
-* [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
+> [!Important]
+> **Some important links below**
+> * [**Maintainers Requirements**](https://projectelixiros.com/documentation)
+> * [**Device Requirements**](https://projectelixiros.com/documentation)
+> * [**Apply for Maintainership**](https://docs.google.com/forms/d/1eme8i0nXFNpv2fEfbskoANIwLUGy4KcYXssluWv6obE)
 
 ### Official Support Group & Channel
  * [**Elixir Telegram Channel**](https://telegram.me/Elixir_Updates)
  * [**Elixir Telegram Group**](https://telegram.me/Elixir_Discussion)
 
-### NOTE
- * Android 15 is the latest OFFICIAL source
- * Android 15 builds are available on [Patreon/BMC](https://www.patreon.com/uglykid24)
- * Due to toxicity in community from v4.3 (A14) all builds will be exclusive to [Patreon/BMC only](https://www.patreon.com/uglykid24)
- * For any further queries contact us via mail or on Telegram
- 
 Have you joined it already? Okay, good. Now if you need to contact us, well, you may ask in our [**Telegram**](https://telegram.me/Elixir_Discussion) Support Group, ~~we may or may not answer.~~
  
  ### Official Website and Downloads
@@ -51,7 +46,14 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
 ### Contact on Emergency
 * [**Saurav - Founder/lead Dev**](https://telegram.me/ugly_kid_af) - [**[Github Profile]**](https://github.com/ugly-kid-af)
 
-For urgent need feel free to contact us on provided links. And for personal build request, patreon, donation, suggestions, sponsor, personal device support join telegram group or respective platform like patreon chat. Don't PM unnecessarily !!
+> [!Note] 
+> * For urgent need feel free to contact us on provided links.
+> * And for personal build request, membership, sponsor and support, respective platform like patreon
+> * Don't PM unnecessarily !!
+> * Android 15 is the latest OFFICIAL source
+> * Android 15 builds are available on [Patreon/BMC](https://www.patreon.com/uglykid24)
+> * Due to toxicity in community from v4.3 (A14) all builds will be exclusive to [Patreon/BMC only](https://www.patreon.com/uglykid24)
+> * For any further queries contact us via mail or on Telegram
 
 ### Help to keep Project Elixir active and running by donating. 
 Any amount is appreciated.シ
