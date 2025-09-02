@@ -1,29 +1,28 @@
 <p align="center">
-  <img src="https://i.imgur.com/irnHU8d.png" />
-</p>
+  <img src="https://github.com/Project-Elixir/docs/blob/bkl/res/elixir-a16banner.png" />
+</p
 
-### Introducing Project Elixir now based on Android 15 シ
+<br>   
+
+### Introducing Project Elixir now based on Android 16 シ
 
 <p>"Redefine Simplicity with your android experience on our minimalistic custom rom — where sleek design meets robust security, performance, and stability."</p>
 
 ### ⊀ Unleash Innovation ⊁
 
-Elevate your user interface with minimalist design and with the striking of perfect balanced customization options, customize with ease.
+> Elevate your user interface with minimalist design and with the striking of perfect balanced customization options, customize with ease. Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
 
 A screenshot is worth thousand of words so don't forget to checkout our [**gallery 1**](https://projectelixiros.com/gallery) and [**gallery 2**](https://www.buymeacoffee.com/uglykid/gallery)
 
 [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dm/project-elixir.svg)](https://projectelixiros.com/download) <img src="https://komarev.com/ghpvc/?username=Project-Elixir&style=flat-square" alt="Project-Elixir" />  [![Download Project Elixir [Custom ROM]](https://img.shields.io/sourceforge/dt/project-elixir.svg)](https://projectelixiros.com/download) 
 
-> Project Elixir is an AOSP-based custom Android ROM with great performance, security and stability. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android. 
-
 ### So now you know about us, Lets begin the madness !
-> You can build and enjoy Project Elixir on your respective devices by your own or you can visit our website for OFFICIAL builds by porper maintainer. Now basics pre requisite that you need to build by yourself
+> Now you can visit our official website/patreon/bmc for builds with monthly updates. Enjoy Project Elixir on your respective devices. _~~Or you can build by yourself. Now basics pre requisite that you need to build by yourself~~_
 
 ### Official Git Organization / Repos
-* [**Elixir Manifest**](https://github.com/Project-Elixir/manifest) [WIP for Public Use" Dont Sync]
-* [**Elixir Vendor**](https://github.com/Project-Elixir/vendor_aosp)
+* [**Elixir Manifest**](https://github.com/Project-Elixir/manifest) [**WIP Dont Sync**]
 * [**Elixir-Devices**](https://github.com/ProjectElixir-Devices)
-* You may use this [**guide**](https://github.com/Project-Elixir/docs/blob/vany/maintainers_guide.md) as a reference.
+* You may use this [**guide**](https://github.com/Project-Elixir/docs/blob/bkl/maintainers_guide.md) as a reference.
 
 > [!Important]
 > **Some important links below**
@@ -50,9 +49,9 @@ Have you joined it already? Okay, good. Now if you need to contact us, well, you
 > * For urgent need feel free to contact us on provided links.
 > * And for personal build request, membership, sponsor and support, respective platform like patreon
 > * Don't PM unnecessarily !!
-> * Android 15 is the latest OFFICIAL source
-> * Android 15 builds are available on [Patreon/BMC](https://www.patreon.com/uglykid24)
-> * Due to toxicity in community from v4.3 (A14) all builds will be exclusive to [Patreon/BMC only](https://www.patreon.com/uglykid24)
+> * Android 16 is the latest version
+> * Android 16 builds are available on [Patreon/BMC](https://www.patreon.com/uglykid24)
+> * Due to toxicity in android community after v4.3 all builds are now exclusive to [Patreon/BMC only](https://www.patreon.com/uglykid24) only
 > * For any further queries contact us via mail or on Telegram
 
 ### Help to keep Project Elixir active and running by donating. 
@@ -68,7 +67,9 @@ UPI: dwarmachine24@oksbi
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/bETSPlo.png" />
-</p>
+  <img src="https://github.com/Project-Elixir/docs/blob/bkl/res/elixir-copyright.png" />
+</p
+
+
 
 
